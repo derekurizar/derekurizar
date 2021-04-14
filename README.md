@@ -1,15 +1,15 @@
-### Hi there, I'm Fady Amer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Derek Menéndez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a CS student and Full-Stack web developer to be !
+## I'm a IS student , Full-Stack web developer and an Architect Cloud !
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other developers. 
-- 🥅 2021 Goals: Learn to build big projects using more tools and PL.
+- 🥅 2021 Goals: Certify as a solutions architect in aws.
 - ⚡ Fun fact: I am a part-time Swimming coach. 
 
 ### 👦Stats:
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=derekurizar) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
+![profile visit](https://komarev.com/ghpvc/?username=derekurizar) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/guatemala.html)
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=derekurizar&show_icons=true&theme="onedark"&title_color=black&icon_color=black&text_color=white&bg_color=black)
    
