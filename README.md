@@ -5,7 +5,6 @@
 
 <h3>How to reach me:</h3>
 
-<a href="https://www.linkedin.com/in/gustavo-soriano-7326b9130"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:derekurizar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/14321954/derek-men%c3%a9nedez"><img src="https://img.shields.io/badge/stackoverflow-%20-%23F7DF1E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
@@ -44,7 +43,6 @@
    <img src="https://img.shields.io/badge/Sonarcube%20-%23F7DF1E.svg?&style=for-the-badge&color=2F495E" />&nbsp;&nbsp;
    <br />
 </p> 
-
 
 <hr>
 
