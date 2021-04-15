@@ -4,7 +4,7 @@
 <hr>
 
 <h3>How to reach me:</h3>
-<a href="https://derekurizar.medium.com/"><img src="https://img.shields.io/badge/medium-%20-%23F7DF1E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://derekurizar.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/14321954/derek-men%c3%a9nedez"><img src="https://img.shields.io/badge/stackoverflow-%20-%23F7DF1E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:derekurizar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
