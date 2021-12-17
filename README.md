@@ -66,4 +66,4 @@
 ```
 Turning challenges into opportunities
 ```
-![image](https://mphomasondo.files.wordpress.com/2017/03/img_3975.jpg?w=442&h=246)
+![image](https://www.wallpapertip.com/wmimgs/80-800410_technology-apple-wallpaper-steve-jobs-minimalist-quote.jpg)
