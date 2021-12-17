@@ -66,4 +66,4 @@
 ```
 Turning challenges into opportunities
 ```
-![image](https://github.com/soriano-dev/soriano-dev/blob/master/dino.gif)
+![image](https://mphomasondo.files.wordpress.com/2017/03/img_3975.jpg?w=442&h=246)
